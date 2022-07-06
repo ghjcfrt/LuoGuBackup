@@ -1,0 +1,24 @@
+# Question
+
+Try to count the total number of times the number x (0 ≤ x ≤ 9) occurs in all the integers in the interval 1 to n.
+For example, the number 1 occurs 4 times in the interval 1 to 11, i.e. in 1,2,3,4,5,6,7,8,9,10,11.
+
+# Input format
+
+2 integers n,x, separated by a space.
+
+# Output format
+
+1 integer indicating the number of occurrences of x.
+
+# Sample input
+
+11 1
+
+# Sample output
+
+4
+
+# Hint
+
+For 100% of the data, 1 ≤ n ≤ 10^6 and 0 ≤ x ≤ 9.
